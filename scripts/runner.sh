@@ -1,1 +1,0 @@
-docker run -it my-ros-docker
